@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 0EED-52A5
+
+ Directory of C:\Users\Dilip Kumar\Desktop\Gitpub Project
+
+18-11-2022  05:43    <DIR>          .
+18-11-2022  05:43    <DIR>          ..
+18-11-2022  05:43                 0 gitTest.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  35,550,228,480 bytes free
